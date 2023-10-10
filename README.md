@@ -1,3 +1,11 @@
+
+
+
+
+![Sachiya-cover](https://github.com/Sachiya2000/Sachiya2000/assets/118953518/e9f05723-2146-4de9-a87e-d29e841caa66)
+
+
+
 <h1 align="center">Hi 👋, I'm Sachitha Madhuranga</h1>
 <h3 align="center">A Computer Science student from Sri Lanka</h3>
 
