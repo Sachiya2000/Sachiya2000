@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **BSc (Hons) Computer Science**
 
-- 💬 Ask me about **html5,css3,boostrap,c,c++,java**
+- 💬 Ask me about **html5,css3,boostrap,c,c++,java,javascript,react,laravel,express js**
 
 - 📫 How to reach me **sachithmaduranga2001@gmail.com**
 
