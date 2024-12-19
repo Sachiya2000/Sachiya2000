@@ -8,6 +8,9 @@
 
 <h1 align="center">Hi 👋, I'm Sachitha Madhuranga</h1>
 <h3 align="center">A Computer Science student from Sri Lanka</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sachiya2000&label=Profile%20views&color=0e75b6&style=flat" alt="Sachiya2000" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sachiya2000" alt="Sachiya2000" /></a> </p>
 
 - 🌱 I’m currently learning **BSc (Hons) Computer Science**
 
